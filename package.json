@@ -1,0 +1,23 @@
+{
+  "name": "jtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitoc/jtest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitoc/jtest/issues"
+  },
+  "homepage": "https://github.com/vitoc/jtest#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
